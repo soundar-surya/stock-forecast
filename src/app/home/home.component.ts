@@ -75,7 +75,7 @@ export class HomeComponent implements OnInit {
    
     this.temporal_resolutions = ["Daily", "Weekly"]
 
-    this.input_api_key = 'L1841CDIIMA577T3'
+    this.input_api_key = 'H24ORB6ISKPHJY10'
 
 
     this.div_display = false;
